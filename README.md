@@ -1,18 +1,9 @@
-### **GitHub Repository Description**
-
-Sentiment analysis on Amazon Kindle reviews comparing three NLP feature extraction methods: Bag of Words, TF-IDF, and Word2Vec using Scikit-learn and Gensim.
-
------
-
-### **README.md File**
-
 # Kindle Review Sentiment Analysis with Scikit-learn & Gensim
 
 This repository contains a Jupyter notebook that performs sentiment analysis on Amazon Kindle reviews. The primary goal is to classify reviews as positive or negative and to compare the performance of three different NLP feature extraction techniques: **Bag of Words (BoW)**, **TF-IDF**, and **Word2Vec**.
 
 The entire pipeline—from data cleaning and preprocessing to model training and evaluation—is implemented to provide a clear comparison of these methods.
 
------
 
 ## Core Concepts Demonstrated
 
